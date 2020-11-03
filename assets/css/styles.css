@@ -1,0 +1,39 @@
+/*973299
+bg-light 
+azul: 1f0d81
+amarillo: e6bd08
+*/
+.innovaCss {
+  width: 100%;
+  max-width: 110px;
+  height: auto;
+}
+
+.bg-innova {
+  background-color: #1f0d81;
+}
+
+/* nav {
+  background-color: #e6bd08 !important;
+} */
+
+footer {
+  background-color: #1f0d81 !important;
+}
+
+.bg-form-innova {
+  background-color: #f7f8fa;
+}
+
+.colorForm {
+  background-color: #48508e;
+}
+
+.valError {
+  color: red !important;
+  border: 3px solid #bb2929 !important;
+}
+
+.valSuccess {
+  border: 3px solid #2ecc71 !important;
+}
